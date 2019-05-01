@@ -76,7 +76,7 @@ def printOutCome() :
 
     f2 = open("mueller.gv", "w")
     f2.write(dot.source+"\n")
-    f2.close()
+    f2.close()z
     #dot.render('mueller.gv', view=True)
 
 
